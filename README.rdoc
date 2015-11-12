@@ -1,2 +1,2 @@
 Vision board is my first attempt at a solo rails project using Ruby Rails and Bootstrap. 
-The goals of this project is to allow users to signup, login/logout and have a Vision board (profile) page displaying 9 picture goals for the next year. 
+The goals of this project are to allow users to signup, login/logout, and to create a Vision board (profile) page displaying 9 picture goals for the next year. 
